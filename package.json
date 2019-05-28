@@ -7,23 +7,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TechCareBD/topup-react-native-scratch-view.git"
-  },
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "TopUp"
-  },
+  "author": "",
   "license": "",
   "peerDependencies": {
     "react-native": "0.51.0"
-  },
-  "maintainers": [
-    {
-      "name": "Minhajul Islam"
-    }
-  ]
+  }
 }
